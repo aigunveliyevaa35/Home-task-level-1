@@ -1,0 +1,16 @@
+#include <iostream>
+#include <string>
+Using namespace std;
+
+Int main()	{
+Double t;
+String  u;
+Cin>>t>>u;
+
+If (u==”c”||u==”c”)
+Cout<<t*9/5+32<<”f”;
+Else if(u==”F”||u==”f”)
+Cout<<(t-32)*5/9<<”C”;
+Else 
+Cout<<”Sehv  yazilis!Yalniz C ve ya F daxil edin.”;
+}
