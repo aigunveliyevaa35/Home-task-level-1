@@ -1,0 +1,9 @@
+#include <iostream>
+Using namespace std;
+
+Int main()	{
+Double r;
+Cout<<”Radius:”;
+Cin>>r;
+Cout<<”Sahesi:”<<3.14*r*r<<”\nCevresi:”<<2*3.14*r;
+}
