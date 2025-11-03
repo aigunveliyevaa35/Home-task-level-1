@@ -1,0 +1,10 @@
+#include <iostream>
+Using namespace std;
+
+Int main()	{
+Double a;
+Cout<<”Kvadratin terefini daxil edin:”;
+Cin>>a;
+Cout<<”Sahesi:”<<a*a;
+Cout<<”Perimetri:”<<4*a;
+}
