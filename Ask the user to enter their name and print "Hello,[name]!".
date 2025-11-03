@@ -1,0 +1,9 @@
+1)#include <iostream>
+Using namespace std;
+
+Int main()	{
+String ad;
+Cout<<”Adinizi daxil edin:”
+Cin>>ad;
+Cout<<”Salam,”<<ad<<”!”;
+}
