@@ -1,0 +1,11 @@
+#include <iostream>
+Using namespace std;
+
+Int main()	{
+Double a;
+Cout<<”Eded daxil edin:”;
+Cin>>a;
+
+Cout<<”Kvadrat:”<<a*a<<endl;
+Cout<<”Kub:”<<a*a*a<<endl;
+}
