@@ -1,0 +1,19 @@
+#include <iostream>
+Using namespace std;
+
+Int main()	{
+Double a,b;
+Cout<<”Iki eded axil edin:”;
+Cin>>a>>b;
+
+Cout<<”Cem:”<<a+b<<endl;
+Cout<<”Hasil:”<<a*b<<endl;
+Cout<<”Ferq:”<<a-b<<endl;
+
+If (b!=0)
+Cout<<”Bolmesi:”<<a/b<<endl;
+Else 
+Cout<<”0-a bolme yoxdur!”<<endl;
+    Return 0;
+}
+
