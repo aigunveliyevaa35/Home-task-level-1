@@ -1,0 +1,9 @@
+#include <iostream>
+Using namespace std;
+
+Int main()	{
+Double a,b,c;
+Cout<<”Uc ededi daxil edin:”;
+Cin>>a>>b>>c;
+Cout<<”Ortalama:”<<(a+b+c)/3;
+}
